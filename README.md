@@ -57,4 +57,7 @@ This project focuses on building a Large Language Model (LLM) tailored to my the
 This project is undertaken entirely by me as part of my thesis journey. Every component—from data collection to deployment—is crafted with a hands-on approach, reflecting a deep commitment to innovation and learning.
 
 ## Contact
+
 - Author: Đoàn Trần Thuận
+
+- Supervisor: Hồ Long Vân
